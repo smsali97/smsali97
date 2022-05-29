@@ -1,6 +1,6 @@
 ### Salam! 👋
 
-- 🔭 I’m currently working on **exciting things at Airlift Technologies** 🚐🛒🚀
+<!-- - 🔭 I’m currently working on **exciting things at Airlift Technologies** 🚐🛒🚀 -->
 - 🌱 I’m currently learning **everything JavaScript (NodeJS, Angular, Typescript, etc)**
 - 👯 I’m looking to collaborate on my **[Pocketfs Distributed Systems Project](http://github.com/smsali97/pocketfs)**!
 - 🤔 I’m looking for help with moving to **Full Stack**
