@@ -1,6 +1,6 @@
 ### Salam! 👋
 
- 🔭 I’m currently studying at the Rochester Institute of Technology with a graduate program on **Data Science ** S🚀
+ 🔭 I’m currently studying at the Rochester Institute of Technology with a graduate program on **Data Science** 🚀
 - 🌱 I have experience with Software Enggineering and trying to learn new stuff in DS!
 - 👯 I’m looking to collaborate on my **[Pocketfs Distributed Systems Project](http://github.com/smsali97/pocketfs)**!
 - 🤔 I’m looking for help with moving to **Data Science** while also doing Engineering!
