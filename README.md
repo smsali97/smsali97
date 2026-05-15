@@ -1,10 +1,16 @@
 ### Salam! 👋
 
- 🔭 I’m currently studying at the Rochester Institute of Technology with a graduate program on **Data Science** 🚀
-- 🌱 I have experience with Software Enggineering and trying to learn new stuff in DS!
-- 👯 I’m looking to collaborate on my **[Pocketfs Distributed Systems Project](http://github.com/smsali97/pocketfs)**!
-- 🤔 I’m looking for help with moving to **Data Science** while also doing Engineering!
-- 💬 Ask me about **tech**, if I dont know about it, I'll definitely *learn*!
-- 📫 How to reach me: Meet me on my **[website](http://smsali97.github.io)**! 
-- 😄 Pronounciation: Just **Sualeh**. Not ~~Sauleh~~. ~~Saleh~~ 😅 
-- ⚡ Fun fact: Penguins do this thing called **tobogganing** by laying on their stomachs and propel themselves with their feet! 🐧
+I’m a Senior AI Engineer working on Generative AI systems at Careem 🚀  
+I’m also a Fulbright Scholar and graduate student in Data Science at RIT, focused on building scalable AI and data-driven systems.
+
+- 🔭 Currently working on: Generative AI products at scale (Careem, Data & AI team)
+- 🧠 Interests: LLM systems, applied machine learning, distributed systems, and data-intensive products
+- 👯 Building: PocketFS → distributed systems project → http://github.com/smsali97/pocketfs
+- 💡 Background: Software engineering + data science across startups (Careem, Airlift, VentureDive)
+- 🤔 Exploring: AI engineering, ML systems, and real-world DS applications
+- 💬 Ask me about: LLMs, backend systems, or transitioning from SWE → AI/DS
+- 📫 Reach me: http://sualehsayssalam.com
+- 😄 Pronunciation: Sualeh (not Sauleh / Saleh 😅)
+- ⚡ Fun fact: Penguins toboggan by sliding on their stomachs using their feet 🐧
+
+Always building, always learning.
